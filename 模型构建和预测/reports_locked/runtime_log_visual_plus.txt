@@ -1,0 +1,17 @@
+=== runtime log ===
+ROOT_DIR = E:\桌面\不惜一切代价
+INPUT_DATA_PATH = E:\桌面\不惜一切代价\data_fixed_with_PCA_smiles_cleaned_corrected_modified.xlsx
+[quantum_yield] ExtraTrees | test_r2=0.8890
+[quantum_yield] RandomForest | test_r2=0.8651
+[quantum_yield] SVR | test_r2=-0.0106
+[quantum_yield] KNN | test_r2=0.2065
+[ex] ExtraTrees | test_r2=0.9545
+[ex] RandomForest | test_r2=0.9334
+[ex] SVR | test_r2=0.0088
+[ex] KNN | test_r2=0.4601
+[em] ExtraTrees | test_r2=0.9139
+[em] RandomForest | test_r2=0.8662
+[em] SVR | test_r2=0.0072
+[em] KNN | test_r2=0.7567
+新样本预测完成，结果已保存: E:\桌面\不惜一切代价\new_OPD_predictions_locked.xlsx
+Publication-ready visualization pipeline completed.

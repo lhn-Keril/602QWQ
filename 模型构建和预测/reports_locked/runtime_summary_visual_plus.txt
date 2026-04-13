@@ -1,0 +1,14 @@
+Publication-ready visualization run summary
+================================================================================
+目标=quantum_yield | 最佳模型=ExtraTrees | Test R2=0.8890 | MAE=3.3338 | RMSE=6.2840 | 通过=1
+目标=ex | 最佳模型=ExtraTrees | Test R2=0.9545 | MAE=9.6505 | RMSE=13.8355 | 通过=1
+目标=em | 最佳模型=ExtraTrees | Test R2=0.9139 | MAE=10.5420 | RMSE=17.1779 | 通过=1
+================================================================================
+overview: E:\桌面\不惜一切代价\figures_locked\00_overview
+r2_compare: E:\桌面\不惜一切代价\figures_locked\01_model_r2_compare
+best_r2: E:\桌面\不惜一切代价\figures_locked\02_best_r2
+linear_fit: E:\桌面\不惜一切代价\figures_locked\03_linear_fit
+residual: E:\桌面\不惜一切代价\figures_locked\04_residual_analysis
+metrics_bar: E:\桌面\不惜一切代价\figures_locked\05_metrics_bar
+importance: E:\桌面\不惜一切代价\figures_locked\06_importance_analysis
+总耗时: 65.91 秒
