@@ -1,0 +1,27 @@
+============================================================
+Carbon-dot dataset report (journal-style visualization version)
+============================================================
+
+Dataset summary:
+- Samples: 240
+- Numeric variables: 13
+
+Output directories:
+- Figures: E:\桌面\数据分布和相关性分析\figures_journal
+- Tables: E:\桌面\数据分布和相关性分析\tables_journal
+
+Visual upgrades:
+- Unified journal-style typography, line widths, axes and spacing
+- Consistent palette with the previous two scripts: blue / gray / red / green / purple / gold
+- Distribution figures include normal fit and KDE
+- Group comparison figures use violin + box + jitter
+- Correlation figures use a blue-white-red diverging map
+- Background dashed grid removed
+- Top X-axis and right Y-axis border lines added without ticks
+- Axis and figure text information bolded
+- Final version optimized for publication-style aesthetics
+
+Export formats:
+- PNG (500 dpi)
+- PDF: True
+- TIFF: False
